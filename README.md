@@ -4,3 +4,4 @@
 - `heahtraht.sublime-theme`: sublime text theme (customization of ayu mirage / extremely wip)
 - `dwm-config.h`: dwm theme
 
+![screenshot](screenshot.png)
