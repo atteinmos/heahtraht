@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -10,7 +11,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#111111</string>
+                <string>#000000</string>
                 <key>caret</key>
                 <string>#ffffff</string>
                 <key>foreground</key>
@@ -18,11 +19,11 @@
                 <key>invisibles</key>
                 <string>#3B3A32</string>
                 <key>lineHighlight</key>
-                <string>#333333</string>
+                <string>#111111</string>
                 <key>selection</key>
                 <string>#333333</string>
                 <key>findHighlight</key>
-                <string>#FFE792</string>
+                <string>#FFffff</string>
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
                 <key>selectionBorder</key>
@@ -36,6 +37,8 @@
             <string>comment</string>
             <key>settings</key>
             <dict>
+            		<key>fontStyle</key>
+            		<string>italic</string>
                 <key>foreground</key>
                 <string>#535353</string>
             </dict>
@@ -70,7 +73,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#49CDAC</string>
+                <string>#00FFFF</string>
             </dict>
         </dict>
         <dict>
@@ -270,7 +273,7 @@
                 <key>fontStyle</key>
                 <string>bold</string>
                 <key>foreground</key>
-                <string>#CD4A49</string>
+                <string>#FF0000</string>
             </dict>
         </dict>
         <dict>
